@@ -15,7 +15,7 @@ Use this repository (repo, for short) to practice skills as we work on them in c
 * [while loops](src/while_loops.py)
 * [lists](src/lists.py) 
 
-
+print("VIOLET is the best")
 ### Submitting your Repo
 * When you have completed each task, commit and push to GitHub.
 * Go to the repo on GitHub and click on the Pull Requests tab. Look for feedback about style. If any issues are found, fix them and check your changes in to GitHub. Repeat until no errors are found. (You can also use the style messages on PyCharm to guide you. That will decrease the number of back-and-forths from PyCharm to GitHub.)
